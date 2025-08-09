@@ -14,6 +14,8 @@ const members = [
   { id: 6, src: "/images/members/1000273839.jpg" },
   { id: 7, src: "/images/members/1000273833.jpg" },
   { id: 9, src: "/images/members/1000273835.jpg" },
+  { id: 10, src: "/images/members/IMG_7620.jpg" },
+  { id: 11, src: "/images/members/IMG_7622.jpg" },
   
 ]
 
